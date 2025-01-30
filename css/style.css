@@ -50,7 +50,7 @@ ul {
 .landing {
   position: relative;
   min-height: 100vh;
-  background-image: url(/images/5798495197708012729.jpg);
+  background-image: url(../images/5798495197708012729.jpg);
   background-size: cover;
 }
 .first-header {
